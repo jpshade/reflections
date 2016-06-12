@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing an empty repository needs to be done in order to identify a 
+directory as a git repo and enabling git functionality. Initializing
+creates the metadata folder for git and enables git commands and version
+control to be used with the directory.
+
+
