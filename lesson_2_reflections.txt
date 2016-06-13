@@ -15,3 +15,12 @@ the working directory. This is valuable as it allows you to only commit what
 you want to commit at any given time, rather than the whole package.
 
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+This is helpful because even if you make multiple changes during one session,
+the ability to control which files are committed at a given time via the
+staging area allows you to control commits more carefully, hence allowing you
+to spread larger changes across multiple commits.
+
+
