@@ -24,3 +24,10 @@ staging area allows you to control commits more carefully, hence allowing you
 to spread larger changes across multiple commits.
 
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches may be helpful in many cases where the developer would like features,
+experiments, or different versions of a program. Branches can help because they
+can be freely changed and edited with no impact at all on the master program
+itself.
