@@ -31,3 +31,13 @@ Branches may be helpful in many cases where the developer would like features,
 experiments, or different versions of a program. Branches can help because they
 can be freely changed and edited with no impact at all on the master program
 itself.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Not only do diagrams show the history of each branch, but they also show when
+each branch was created, and from what commit each was split. Additionally, a
+diagram can also help us determine which commits are reachable from any given
+point in the repository's history.
+
+
