@@ -41,3 +41,12 @@ diagram can also help us determine which commits are reachable from any given
 point in the repository's history.
 
 
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+When we merge branches together, their changes are merged together into one
+file so that the functionality of both branches is preserved. Also, their
+history becomes one shared log. We represent this in the diagram the way we do
+because they become one branch; when merging with master, this essentially
+means that the old branch is no more. When merging two non-master branches,
+this means that the two have become one.
