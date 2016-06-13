@@ -50,3 +50,12 @@ history becomes one shared log. We represent this in the diagram the way we do
 because they become one branch; when merging with master, this essentially
 means that the old branch is no more. When merging two non-master branches,
 this means that the two have become one.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+Automatic merging is fast and easy, but it may result in undesirable changes
+being made, and resolving conflicts can be time consuming. Manual merges give
+the user total control over the changes being made, but can be extremely time
+consuming, especially for larger projects.
