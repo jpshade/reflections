@@ -13,3 +13,5 @@ The staging area is different as files in the staging area are not yet
 committed to the repository, but they are being prepared to be committed unlike
 the working directory. This is valuable as it allows you to only commit what
 you want to commit at any given time, rather than the whole package.
+
+
