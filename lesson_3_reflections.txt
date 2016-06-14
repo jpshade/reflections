@@ -12,3 +12,16 @@ It may be that the local repository is ahead of the remote repository, in which 
 automatically pulling is clearly a bad idea. Also, there may be changes made in the
 remote repository by someone else that conflict with changes currently being made in
 your local repository. Manual pulling prevents all of these kinds of conflicts.
+
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+Branches are used to create parallel versions of a project. Clones are used to copy
+a project exactly, and forks are the same as clones but they take place within
+Github. Branches are used to work on new features, bugfixes, etc. without changing
+the master version. Clones and forks are used to gain a copy of the project for
+your own use, either for working on the project locally or using it as a basis for
+other projects.
+
+
