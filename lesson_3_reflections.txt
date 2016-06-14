@@ -43,3 +43,14 @@ such as Google Slides or Cloud9. However, unless all collaborators can be online
 and are always on the same page working on the same thing, it is more efficient and productive
 to use git, which allows collaborators to all work on their own without interfering with each
 other.
+
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+Making changes in a separate branch is ideal when the feature is either experimental and
+could break master, or if a collaborator is seeking to get feedback on a change before 
+merging it in. The disadvantage of this is that branches increase the complexity of the
+commit history, and with too many branches things can get confusing. Also, branches may have
+to be manually merged back into master, which is something that is avoided altogether when
+master is the only thing being edited.
