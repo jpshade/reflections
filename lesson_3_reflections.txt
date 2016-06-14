@@ -25,3 +25,10 @@ your own use, either for working on the project locally or using it as a basis f
 other projects.
 
 
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+This is useful as it offers a point of comparison between the remote and any changes
+that have been made since it was stored, especially in the case that you don't have
+internet access. Also, it can be merged on the local machine in the event that a branch
+is completed, which may make merging with the actual remote later on more straightforward.
