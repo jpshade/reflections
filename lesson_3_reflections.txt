@@ -32,3 +32,14 @@ This is useful as it offers a point of comparison between the remote and any cha
 that have been made since it was stored, especially in the case that you don't have
 internet access. Also, it can be merged on the local machine in the event that a branch
 is completed, which may make merging with the actual remote later on more straightforward.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+It may be easier to simply follow what is happening without using Git, as the alternative
+is much simpler and more straightforward, especially with collaboriative online editing apps
+such as Google Slides or Cloud9. However, unless all collaborators can be online at all times
+and are always on the same page working on the same thing, it is more efficient and productive
+to use git, which allows collaborators to all work on their own without interfering with each
+other.
